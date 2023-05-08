@@ -16,6 +16,6 @@
 - State Management (Bloc, Provider, Get X)<br>
 - 
 ### My Projects
-- Food Delivery <a href="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter">https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter</a>
--E-commerce project <a href="https://github.com/AbdoFaragAbdo/Flutter-E-Commerce-App">https://github.com/AbdoFaragAbdo/Flutter-E-Commerce-App</a>
+- Food Delivery <a href="https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter">https://github.com/AbdoFaragAbdo/Food-Delivery-Flutter</a><br>
+- E-commerce project <a href="https://github.com/AbdoFaragAbdo/Flutter-E-Commerce-App">https://github.com/AbdoFaragAbdo/Flutter-E-Commerce-App</a>
 
